@@ -1,0 +1,2746 @@
+{
+  "0": {
+    "name": "0_police_man_county_said",
+    "count": 3016,
+    "keywords": [
+      "police",
+      "man",
+      "county",
+      "said",
+      "officers",
+      "court",
+      "arrested",
+      "charged",
+      "car",
+      "vehicle"
+    ],
+    "keyword_scores": {
+      "police": 0.027877236740265567,
+      "man": 0.01485055680145847,
+      "county": 0.01280031524994108,
+      "said": 0.011589419408660004,
+      "officers": 0.011530168014180176,
+      "court": 0.011471787892224762,
+      "arrested": 0.01093542067076123,
+      "charged": 0.010453778678451472,
+      "car": 0.009997633393983416,
+      "vehicle": 0.009938661063714058
+    }
+  },
+  "1": {
+    "name": "1_click_nigeria_share_government",
+    "count": 1830,
+    "keywords": [
+      "click",
+      "nigeria",
+      "share",
+      "government",
+      "twitter",
+      "facebook",
+      "post",
+      "ask",
+      "state",
+      "twitter whatsapp"
+    ],
+    "keyword_scores": {
+      "click": 0.020045518522379846,
+      "nigeria": 0.01971620085486262,
+      "share": 0.017705904553195925,
+      "government": 0.015235557833537711,
+      "twitter": 0.014012631004520939,
+      "facebook": 0.013270711158124386,
+      "post": 0.013142679986374308,
+      "ask": 0.013097915585792997,
+      "state": 0.011814981049418114,
+      "twitter whatsapp": 0.01161177329408909
+    }
+  },
+  "2": {
+    "name": "2_league_club_cup_game",
+    "count": 1627,
+    "keywords": [
+      "league",
+      "club",
+      "cup",
+      "game",
+      "manchester",
+      "premier league",
+      "premier",
+      "season",
+      "win",
+      "champions"
+    ],
+    "keyword_scores": {
+      "league": 0.026203708874609242,
+      "club": 0.015601435789994152,
+      "cup": 0.014832571992349658,
+      "game": 0.01470504776306423,
+      "manchester": 0.013817874404980486,
+      "premier league": 0.013414292366012518,
+      "premier": 0.012910227143444588,
+      "season": 0.012785592506735326,
+      "win": 0.012528605036902623,
+      "champions": 0.012231417993171869
+    }
+  },
+  "3": {
+    "name": "3_points_game_scored_coach",
+    "count": 1460,
+    "keywords": [
+      "points",
+      "game",
+      "scored",
+      "coach",
+      "season",
+      "half",
+      "team",
+      "rebounds",
+      "state",
+      "second"
+    ],
+    "keyword_scores": {
+      "points": 0.032571102942920135,
+      "game": 0.019218784566419875,
+      "scored": 0.01739373164965975,
+      "coach": 0.015825778245297597,
+      "season": 0.015122097777066846,
+      "half": 0.01352256351647992,
+      "team": 0.013401947569013046,
+      "rebounds": 0.013167261242808558,
+      "state": 0.013109041035568052,
+      "second": 0.012671091665346218
+    }
+  },
+  "4": {
+    "name": "4_apple_data_cloud_app",
+    "count": 1269,
+    "keywords": [
+      "apple",
+      "data",
+      "cloud",
+      "app",
+      "google",
+      "software",
+      "technology",
+      "devices",
+      "users",
+      "camera"
+    ],
+    "keyword_scores": {
+      "apple": 0.014799912045781596,
+      "data": 0.014079646355839682,
+      "cloud": 0.013234251997850666,
+      "app": 0.012300539945923849,
+      "google": 0.011447289130539379,
+      "software": 0.01090115142914119,
+      "technology": 0.01072517790329497,
+      "devices": 0.010597882242335589,
+      "users": 0.01014476268060307,
+      "camera": 0.010038062429415316
+    }
+  },
+  "5": {
+    "name": "5_series_film_movie_drama",
+    "count": 1244,
+    "keywords": [
+      "series",
+      "film",
+      "movie",
+      "drama",
+      "star",
+      "actor",
+      "episode",
+      "best",
+      "characters",
+      "films"
+    ],
+    "keyword_scores": {
+      "series": 0.02033683507919666,
+      "film": 0.019602788818195452,
+      "movie": 0.014378169329349037,
+      "drama": 0.012184563910725652,
+      "star": 0.010948270247240315,
+      "actor": 0.0099913483790403,
+      "episode": 0.009842132946993667,
+      "best": 0.009672339721138548,
+      "characters": 0.008890558254520533,
+      "films": 0.008880842612349567
+    }
+  },
+  "6": {
+    "name": "6_nfl_season_quarterback_yards",
+    "count": 1167,
+    "keywords": [
+      "nfl",
+      "season",
+      "quarterback",
+      "yards",
+      "eagles",
+      "bowl",
+      "patriots",
+      "game",
+      "super bowl",
+      "super"
+    ],
+    "keyword_scores": {
+      "nfl": 0.025524181832733518,
+      "season": 0.01839301329630438,
+      "quarterback": 0.017039737474369702,
+      "yards": 0.017006069223215542,
+      "eagles": 0.01601329425150566,
+      "bowl": 0.014676695607145357,
+      "patriots": 0.014241822669824792,
+      "game": 0.01421544670941904,
+      "super bowl": 0.013869549310123089,
+      "super": 0.013106955553804542
+    }
+  },
+  "7": {
+    "name": "7_music_album_band_song",
+    "count": 997,
+    "keywords": [
+      "music",
+      "album",
+      "band",
+      "song",
+      "songs",
+      "pm",
+      "new",
+      "tour",
+      "dance",
+      "tickets"
+    ],
+    "keyword_scores": {
+      "music": 0.03290984512338244,
+      "album": 0.03207980322259895,
+      "band": 0.019178916471269052,
+      "song": 0.018210131866539712,
+      "songs": 0.014406814203841033,
+      "pm": 0.010795297559587384,
+      "new": 0.01047477351824614,
+      "tour": 0.009982885790759018,
+      "dance": 0.009959696697677706,
+      "tickets": 0.00983742152451396
+    }
+  },
+  "8": {
+    "name": "8_yankees_inning_baseball_innings",
+    "count": 897,
+    "keywords": [
+      "yankees",
+      "inning",
+      "baseball",
+      "innings",
+      "mets",
+      "game",
+      "runs",
+      "season",
+      "era",
+      "league"
+    ],
+    "keyword_scores": {
+      "yankees": 0.028549057068902463,
+      "inning": 0.023133001899030867,
+      "baseball": 0.022542851767908993,
+      "innings": 0.02095433822811685,
+      "mets": 0.018225069427883718,
+      "game": 0.01672399357967014,
+      "runs": 0.01663717996120993,
+      "season": 0.015145358790727153,
+      "era": 0.013900621843845025,
+      "league": 0.013854738497907611
+    }
+  },
+  "9": {
+    "name": "9_nba_points_warriors_game",
+    "count": 896,
+    "keywords": [
+      "nba",
+      "points",
+      "warriors",
+      "game",
+      "lakers",
+      "knicks",
+      "james",
+      "rebounds",
+      "basketball",
+      "season"
+    ],
+    "keyword_scores": {
+      "nba": 0.03233042688337029,
+      "points": 0.025327319693939043,
+      "warriors": 0.022521395842156768,
+      "game": 0.021998496544137446,
+      "lakers": 0.017944453804987763,
+      "knicks": 0.014954444463091009,
+      "james": 0.014606121288926558,
+      "rebounds": 0.014032446590921411,
+      "basketball": 0.013602142177649053,
+      "season": 0.013187924732217794
+    }
+  },
+  "10": {
+    "name": "10_dog_dogs_animal_animals",
+    "count": 605,
+    "keywords": [
+      "dog",
+      "dogs",
+      "animal",
+      "animals",
+      "pet",
+      "wildlife",
+      "birds",
+      "cat",
+      "cats",
+      "zoo"
+    ],
+    "keyword_scores": {
+      "dog": 0.038021108858069266,
+      "dogs": 0.029309962675823645,
+      "animal": 0.025718857826406434,
+      "animals": 0.02176719021479775,
+      "pet": 0.013212147972379951,
+      "wildlife": 0.01258379735489773,
+      "birds": 0.011601684824207219,
+      "cat": 0.011240326238596518,
+      "cats": 0.011040793820159892,
+      "zoo": 0.01051657497709237
+    }
+  },
+  "11": {
+    "name": "11_uber_cars_vehicles_car",
+    "count": 586,
+    "keywords": [
+      "uber",
+      "cars",
+      "vehicles",
+      "car",
+      "tesla",
+      "selfdriving",
+      "electric",
+      "vehicle",
+      "energy",
+      "autonomous"
+    ],
+    "keyword_scores": {
+      "uber": 0.03141170570266569,
+      "cars": 0.026347084361591493,
+      "vehicles": 0.02375586621072192,
+      "car": 0.022679321543590508,
+      "tesla": 0.019265835473690335,
+      "selfdriving": 0.017950337891124594,
+      "electric": 0.016161829835618247,
+      "vehicle": 0.01536768654151401,
+      "energy": 0.01512613356279681,
+      "autonomous": 0.015000666666091633
+    }
+  },
+  "12": {
+    "name": "12_housing_city_council_homes",
+    "count": 564,
+    "keywords": [
+      "housing",
+      "city",
+      "council",
+      "homes",
+      "property",
+      "building",
+      "new",
+      "development",
+      "parking",
+      "park"
+    ],
+    "keyword_scores": {
+      "housing": 0.018817950036549333,
+      "city": 0.016869661346240482,
+      "council": 0.01682355073658507,
+      "homes": 0.012283691045048615,
+      "property": 0.01218642285252869,
+      "building": 0.011497858281251095,
+      "new": 0.010954040476528672,
+      "development": 0.010569308350111552,
+      "parking": 0.010374322281554807,
+      "park": 0.009658165335182722
+    }
+  },
+  "13": {
+    "name": "13_nhl_game_scored_hockey",
+    "count": 546,
+    "keywords": [
+      "nhl",
+      "game",
+      "scored",
+      "hockey",
+      "period",
+      "goals",
+      "games",
+      "goal",
+      "puck",
+      "rangers"
+    ],
+    "keyword_scores": {
+      "nhl": 0.02629169494651055,
+      "game": 0.02599142002493565,
+      "scored": 0.024988922431159143,
+      "hockey": 0.021147185269807245,
+      "period": 0.02091273116917595,
+      "goals": 0.020217078710637066,
+      "games": 0.02019863472237225,
+      "goal": 0.020174880496578475,
+      "puck": 0.017804684110563695,
+      "rangers": 0.015587506529679643
+    }
+  },
+  "14": {
+    "name": "14_charlottesville_white_violence_rally",
+    "count": 524,
+    "keywords": [
+      "charlottesville",
+      "white",
+      "violence",
+      "rally",
+      "fields",
+      "trump",
+      "virginia",
+      "confederate",
+      "supremacists",
+      "white supremacists"
+    ],
+    "keyword_scores": {
+      "charlottesville": 0.03860624968065286,
+      "white": 0.03439289059711342,
+      "violence": 0.026125268144563566,
+      "rally": 0.022911854490353743,
+      "fields": 0.01963437320959312,
+      "trump": 0.018543426549679422,
+      "virginia": 0.017872670269953442,
+      "confederate": 0.01705553107315184,
+      "supremacists": 0.01648854015889757,
+      "white supremacists": 0.016219491824798572
+    }
+  },
+  "15": {
+    "name": "15_firefighters_blaze_smoke_london",
+    "count": 514,
+    "keywords": [
+      "firefighters",
+      "blaze",
+      "smoke",
+      "london",
+      "fires",
+      "building",
+      "flames",
+      "crews",
+      "residents",
+      "tower"
+    ],
+    "keyword_scores": {
+      "firefighters": 0.03486211076975749,
+      "blaze": 0.024444922649127777,
+      "smoke": 0.022174351088044237,
+      "london": 0.019939497796569863,
+      "fires": 0.019524329317721318,
+      "building": 0.01824436919869254,
+      "flames": 0.018151156043691587,
+      "crews": 0.014888112985813879,
+      "residents": 0.014750645143603275,
+      "tower": 0.014196331744191788
+    }
+  },
+  "16": {
+    "name": "16_israel_israeli_palestinian_netanyahu",
+    "count": 496,
+    "keywords": [
+      "israel",
+      "israeli",
+      "palestinian",
+      "netanyahu",
+      "jerusalem",
+      "gaza",
+      "hamas",
+      "briefs",
+      "palestinians",
+      "minister"
+    ],
+    "keyword_scores": {
+      "israel": 0.06570329170469012,
+      "israeli": 0.04281535317540739,
+      "palestinian": 0.04225985420342696,
+      "netanyahu": 0.039061620873515626,
+      "jerusalem": 0.03543738912502101,
+      "gaza": 0.03252836410927919,
+      "hamas": 0.02784569827289657,
+      "briefs": 0.02693706868874503,
+      "palestinians": 0.025910092819336972,
+      "minister": 0.02288059969993544
+    }
+  },
+  "17": {
+    "name": "17_school_students_schools_education",
+    "count": 483,
+    "keywords": [
+      "school",
+      "students",
+      "schools",
+      "education",
+      "teachers",
+      "student",
+      "college",
+      "district",
+      "high school",
+      "high"
+    ],
+    "keyword_scores": {
+      "school": 0.04223530707765804,
+      "students": 0.03791818288850318,
+      "schools": 0.030717793937277,
+      "education": 0.026442200089166933,
+      "teachers": 0.019800881988530854,
+      "student": 0.01333415066426897,
+      "college": 0.012563178786059136,
+      "district": 0.011601204489152753,
+      "high school": 0.011551543179408473,
+      "high": 0.011071466774922274
+    }
+  },
+  "18": {
+    "name": "18_percent_index_stocks_rates",
+    "count": 438,
+    "keywords": [
+      "percent",
+      "index",
+      "stocks",
+      "rates",
+      "rate",
+      "market",
+      "inflation",
+      "investors",
+      "rose",
+      "fed"
+    ],
+    "keyword_scores": {
+      "percent": 0.039884132238099425,
+      "index": 0.023406143461541244,
+      "stocks": 0.023086233698691706,
+      "rates": 0.021531695695255277,
+      "rate": 0.02108807774958124,
+      "market": 0.020631227330921216,
+      "inflation": 0.020625233303469815,
+      "investors": 0.019910165830266773,
+      "rose": 0.01939035632864337,
+      "fed": 0.019068147469606826
+    }
+  },
+  "19": {
+    "name": "19_beer_wine_food_restaurant",
+    "count": 403,
+    "keywords": [
+      "beer",
+      "wine",
+      "food",
+      "restaurant",
+      "sauce",
+      "chicken",
+      "pizza",
+      "cheese",
+      "menu",
+      "ingredients"
+    ],
+    "keyword_scores": {
+      "beer": 0.02340248395614324,
+      "wine": 0.02052170980305112,
+      "food": 0.019564013777288742,
+      "restaurant": 0.01955649861073257,
+      "sauce": 0.018281706330211336,
+      "chicken": 0.017861169405256477,
+      "pizza": 0.016007647996334817,
+      "cheese": 0.014806727932109718,
+      "menu": 0.013358493977411965,
+      "ingredients": 0.013325330831106551
+    }
+  },
+  "20": {
+    "name": "20_email_email address_check_address",
+    "count": 393,
+    "keywords": [
+      "email",
+      "email address",
+      "check",
+      "address",
+      "blog share",
+      "posts email",
+      "failed try",
+      "addresses email",
+      "check failed",
+      "sorry blog"
+    ],
+    "keyword_scores": {
+      "email": 0.33111388788579194,
+      "email address": 0.21228324933612483,
+      "check": 0.17183823067265167,
+      "address": 0.16841751823755702,
+      "blog share": 0.13679853459688204,
+      "posts email": 0.13679853459688204,
+      "failed try": 0.13679853459688204,
+      "addresses email": 0.13679853459688204,
+      "check failed": 0.13679853459688204,
+      "sorry blog": 0.13679853459688204
+    }
+  },
+  "21": {
+    "name": "21_facebook_data_cambridge_analytica",
+    "count": 387,
+    "keywords": [
+      "facebook",
+      "data",
+      "cambridge",
+      "analytica",
+      "cambridge analytica",
+      "users",
+      "media",
+      "privacy",
+      "social",
+      "company"
+    ],
+    "keyword_scores": {
+      "facebook": 0.03788288638496895,
+      "data": 0.034853497640586255,
+      "cambridge": 0.0340618906558933,
+      "analytica": 0.02985792231064537,
+      "cambridge analytica": 0.02956709651321294,
+      "users": 0.019518593021365348,
+      "media": 0.01729846231962863,
+      "privacy": 0.014942760526901619,
+      "social": 0.014846025961385017,
+      "company": 0.0146110077733689
+    }
+  },
+  "22": {
+    "name": "22_golf_pga_open_woods",
+    "count": 375,
+    "keywords": [
+      "golf",
+      "pga",
+      "open",
+      "woods",
+      "thomas",
+      "course",
+      "tour",
+      "hole",
+      "tournament",
+      "championship"
+    ],
+    "keyword_scores": {
+      "golf": 0.05548664194874352,
+      "pga": 0.026611858402358975,
+      "open": 0.024560286221229778,
+      "woods": 0.02312214078335022,
+      "thomas": 0.020989000580971938,
+      "course": 0.01947651927027489,
+      "tour": 0.018718901029283263,
+      "hole": 0.017748249663672697,
+      "tournament": 0.017436579837933987,
+      "championship": 0.01600562460598061
+    }
+  },
+  "23": {
+    "name": "23_storm_snow_weather_rain",
+    "count": 373,
+    "keywords": [
+      "storm",
+      "snow",
+      "weather",
+      "rain",
+      "temperatures",
+      "hurricane",
+      "mph",
+      "winds",
+      "nate",
+      "storms"
+    ],
+    "keyword_scores": {
+      "storm": 0.04456071801706542,
+      "snow": 0.04402576174415487,
+      "weather": 0.04070645138783183,
+      "rain": 0.027902487392790432,
+      "temperatures": 0.023162809717668154,
+      "hurricane": 0.022277083943105562,
+      "mph": 0.02086596890166246,
+      "winds": 0.0205191139945218,
+      "nate": 0.020384956855095036,
+      "storms": 0.01865434327312072
+    }
+  },
+  "24": {
+    "name": "24_olympic_olympics_athletes_world",
+    "count": 363,
+    "keywords": [
+      "olympic",
+      "olympics",
+      "athletes",
+      "world",
+      "marathon",
+      "race",
+      "championships",
+      "games",
+      "pyeongchang",
+      "sport"
+    ],
+    "keyword_scores": {
+      "olympic": 0.03788535974310903,
+      "olympics": 0.028009631887403946,
+      "athletes": 0.027239232910868008,
+      "world": 0.020278739867474322,
+      "marathon": 0.019891804342337904,
+      "race": 0.019719781131617074,
+      "championships": 0.019225836994014436,
+      "games": 0.01919023389963738,
+      "pyeongchang": 0.01779743673610701,
+      "sport": 0.016789637363343903
+    }
+  },
+  "25": {
+    "name": "25_moore_republican_voters_republicans",
+    "count": 357,
+    "keywords": [
+      "moore",
+      "republican",
+      "voters",
+      "republicans",
+      "democrats",
+      "election",
+      "democratic",
+      "senate",
+      "alabama",
+      "trump"
+    ],
+    "keyword_scores": {
+      "moore": 0.03281435515455187,
+      "republican": 0.030540788032828718,
+      "voters": 0.022126425634398924,
+      "republicans": 0.02183443642544481,
+      "democrats": 0.021820684806047003,
+      "election": 0.020510199354627095,
+      "democratic": 0.020461607304461654,
+      "senate": 0.02023248495386378,
+      "alabama": 0.01970688601356156,
+      "trump": 0.017782356558884802
+    }
+  },
+  "26": {
+    "name": "26_thundery showers_thundery_showers_afternoon",
+    "count": 331,
+    "keywords": [
+      "thundery showers",
+      "thundery",
+      "showers",
+      "afternoon",
+      "eastern singapore",
+      "afternoon thundery",
+      "singapore afternoon",
+      "tuesday thundery",
+      "mainly northern",
+      "showers mainly"
+    ],
+    "keyword_scores": {
+      "thundery showers": 0.3175297320769963,
+      "thundery": 0.3173264028831979,
+      "showers": 0.2958726749026564,
+      "afternoon": 0.22520559892858433,
+      "eastern singapore": 0.18125769466343716,
+      "afternoon thundery": 0.18125769466343716,
+      "singapore afternoon": 0.18125769466343716,
+      "tuesday thundery": 0.18125769466343716,
+      "mainly northern": 0.18125769466343716,
+      "showers mainly": 0.18115563603961687
+    }
+  },
+  "27": {
+    "name": "27_korea_north_north korea_korean",
+    "count": 315,
+    "keywords": [
+      "korea",
+      "north",
+      "north korea",
+      "korean",
+      "missile",
+      "nuclear",
+      "kim",
+      "north korean",
+      "south",
+      "koreas"
+    ],
+    "keyword_scores": {
+      "korea": 0.0693398394845082,
+      "north": 0.06465467588720322,
+      "north korea": 0.05488834796155283,
+      "korean": 0.045905774765596916,
+      "missile": 0.03850389671265249,
+      "nuclear": 0.03757773606877912,
+      "kim": 0.03463931446685547,
+      "north korean": 0.026405616988183903,
+      "south": 0.02488735639200422,
+      "koreas": 0.023500649413149312
+    }
+  },
+  "28": {
+    "name": "28_syria_syrian_kurdish_turkish",
+    "count": 301,
+    "keywords": [
+      "syria",
+      "syrian",
+      "kurdish",
+      "turkish",
+      "turkey",
+      "forces",
+      "attack",
+      "iraq",
+      "killed",
+      "istanbul"
+    ],
+    "keyword_scores": {
+      "syria": 0.04953365492415121,
+      "syrian": 0.04927806608590905,
+      "kurdish": 0.02828921578504574,
+      "turkish": 0.027574280007432995,
+      "turkey": 0.024828506896906927,
+      "forces": 0.02424922166147492,
+      "attack": 0.022508212442209862,
+      "iraq": 0.021761926918652124,
+      "killed": 0.021554580132196178,
+      "istanbul": 0.02153420149829778
+    }
+  },
+  "29": {
+    "name": "29_speedway_race_racing_sprint",
+    "count": 297,
+    "keywords": [
+      "speedway",
+      "race",
+      "racing",
+      "sprint",
+      "nascar",
+      "busch",
+      "car",
+      "series",
+      "races",
+      "track"
+    ],
+    "keyword_scores": {
+      "speedway": 0.04960258644919073,
+      "race": 0.04102125992365754,
+      "racing": 0.038586025377654314,
+      "sprint": 0.03720798948604897,
+      "nascar": 0.0312412143679618,
+      "busch": 0.027636503370205845,
+      "car": 0.024122924163383255,
+      "series": 0.022964415427357786,
+      "races": 0.0216000564938638,
+      "track": 0.021344831909915863
+    }
+  },
+  "30": {
+    "name": "30_paddock_vegas_las vegas_las",
+    "count": 296,
+    "keywords": [
+      "paddock",
+      "vegas",
+      "las vegas",
+      "las",
+      "gun",
+      "shooting",
+      "mass",
+      "ammunition",
+      "mass shooting",
+      "stephen paddock"
+    ],
+    "keyword_scores": {
+      "paddock": 0.045848542410658985,
+      "vegas": 0.040830524830539915,
+      "las vegas": 0.04063781661329111,
+      "las": 0.040471394578155476,
+      "gun": 0.032491548418629335,
+      "shooting": 0.027000891873783763,
+      "mass": 0.019796287892356032,
+      "ammunition": 0.017826400936712603,
+      "mass shooting": 0.016920469543671324,
+      "stephen paddock": 0.01669499495064291
+    }
+  },
+  "31": {
+    "name": "31_limerick_ireland_rugby_irish",
+    "count": 292,
+    "keywords": [
+      "limerick",
+      "ireland",
+      "rugby",
+      "irish",
+      "final",
+      "players",
+      "wales",
+      "club",
+      "dublin",
+      "cup"
+    ],
+    "keyword_scores": {
+      "limerick": 0.024959047493616906,
+      "ireland": 0.024918322550179787,
+      "rugby": 0.022088109453878506,
+      "irish": 0.015358393363535706,
+      "final": 0.014010824687770729,
+      "players": 0.013944858023599285,
+      "wales": 0.01319823460696121,
+      "club": 0.01299911667600328,
+      "dublin": 0.012549437235048066,
+      "cup": 0.012288802017600292
+    }
+  },
+  "32": {
+    "name": "32_fight_mcgregor_mayweather_ufc",
+    "count": 291,
+    "keywords": [
+      "fight",
+      "mcgregor",
+      "mayweather",
+      "ufc",
+      "boxing",
+      "wwe",
+      "floyd",
+      "conor",
+      "champion",
+      "bout"
+    ],
+    "keyword_scores": {
+      "fight": 0.06585863108909941,
+      "mcgregor": 0.05258417198508293,
+      "mayweather": 0.05154020474815166,
+      "ufc": 0.04715608514618478,
+      "boxing": 0.043461141990180634,
+      "wwe": 0.036539563100355964,
+      "floyd": 0.02404024520706831,
+      "conor": 0.020485561831013677,
+      "champion": 0.019968793447688073,
+      "bout": 0.019170044424506143
+    }
+  },
+  "33": {
+    "name": "33_venezuela_maduro_venezuelan_mexico",
+    "count": 271,
+    "keywords": [
+      "venezuela",
+      "maduro",
+      "venezuelan",
+      "mexico",
+      "government",
+      "president",
+      "prison",
+      "said",
+      "drug",
+      "castro"
+    ],
+    "keyword_scores": {
+      "venezuela": 0.03354632935643098,
+      "maduro": 0.02894217102458022,
+      "venezuelan": 0.02082994173003894,
+      "mexico": 0.02019010175194981,
+      "government": 0.012760861662683066,
+      "president": 0.012107428073460567,
+      "prison": 0.010864883676319246,
+      "said": 0.010832684330983404,
+      "drug": 0.01078131516957661,
+      "castro": 0.010721974736826387
+    }
+  },
+  "34": {
+    "name": "34_click_share_post_twitter",
+    "count": 271,
+    "keywords": [
+      "click",
+      "share",
+      "post",
+      "twitter",
+      "facebook",
+      "ask",
+      "original website",
+      "text original",
+      "nigeriatodayng like",
+      "post syndicated"
+    ],
+    "keyword_scores": {
+      "click": 0.0479812635457381,
+      "share": 0.042676035276166605,
+      "post": 0.036693018023126536,
+      "twitter": 0.03332984574277126,
+      "facebook": 0.03155642145976474,
+      "ask": 0.030913784336741603,
+      "original website": 0.02754987964776332,
+      "text original": 0.027545614233592305,
+      "nigeriatodayng like": 0.02754135153056031,
+      "post syndicated": 0.02753283424439714
+    }
+  },
+  "35": {
+    "name": "35_weinstein_sexual_women_harvey",
+    "count": 264,
+    "keywords": [
+      "weinstein",
+      "sexual",
+      "women",
+      "harvey",
+      "harvey weinstein",
+      "harassment",
+      "weinsteins",
+      "allegations",
+      "thurman",
+      "batali"
+    ],
+    "keyword_scores": {
+      "weinstein": 0.0798411689450732,
+      "sexual": 0.03180979103218634,
+      "women": 0.031536963846521646,
+      "harvey": 0.02564929333708172,
+      "harvey weinstein": 0.02343533188959452,
+      "harassment": 0.0216658920998537,
+      "weinsteins": 0.0213877960006432,
+      "allegations": 0.019492249838997017,
+      "thurman": 0.01877894076498392,
+      "batali": 0.017829893664146876
+    }
+  },
+  "36": {
+    "name": "36_fashion_hair_look_makeup",
+    "count": 262,
+    "keywords": [
+      "fashion",
+      "hair",
+      "look",
+      "makeup",
+      "dress",
+      "wear",
+      "collection",
+      "style",
+      "skin",
+      "beauty"
+    ],
+    "keyword_scores": {
+      "fashion": 0.04332253558740608,
+      "hair": 0.03228837948577301,
+      "look": 0.021685116715639937,
+      "makeup": 0.02100695802741152,
+      "dress": 0.018304494844418488,
+      "wear": 0.01791454625355404,
+      "collection": 0.01659801323810113,
+      "style": 0.015674901730101536,
+      "skin": 0.01531575659435827,
+      "beauty": 0.012406073111109896
+    }
+  },
+  "37": {
+    "name": "37_trump_white house_white_president",
+    "count": 259,
+    "keywords": [
+      "trump",
+      "white house",
+      "white",
+      "president",
+      "house",
+      "trumps",
+      "melania",
+      "ivanka",
+      "donald",
+      "obama"
+    ],
+    "keyword_scores": {
+      "trump": 0.042737669602868913,
+      "white house": 0.02985549591764419,
+      "white": 0.02691407153712306,
+      "president": 0.023090341261875924,
+      "house": 0.0223522616597636,
+      "trumps": 0.02022495557654097,
+      "melania": 0.018333019610587382,
+      "ivanka": 0.016067282533024977,
+      "donald": 0.014462349678431194,
+      "obama": 0.014262659868094378
+    }
+  },
+  "38": {
+    "name": "38_tax_medicaid_health_taxes",
+    "count": 257,
+    "keywords": [
+      "tax",
+      "medicaid",
+      "health",
+      "taxes",
+      "income",
+      "care",
+      "insurance",
+      "budget",
+      "health care",
+      "republicans"
+    ],
+    "keyword_scores": {
+      "tax": 0.06271185076771589,
+      "medicaid": 0.028290531997458134,
+      "health": 0.022640717900346677,
+      "taxes": 0.02110785255415391,
+      "income": 0.01923284379701142,
+      "care": 0.017765481126144643,
+      "insurance": 0.017620384706679152,
+      "budget": 0.016528596109436477,
+      "health care": 0.015668357491145528,
+      "republicans": 0.01511493227135243
+    }
+  },
+  "39": {
+    "name": "39_china_taiwan_chinese_beijing",
+    "count": 255,
+    "keywords": [
+      "china",
+      "taiwan",
+      "chinese",
+      "beijing",
+      "chinas",
+      "taipei",
+      "trade",
+      "xi",
+      "li",
+      "foreign"
+    ],
+    "keyword_scores": {
+      "china": 0.05777445503008077,
+      "taiwan": 0.04366121321949082,
+      "chinese": 0.04300250710289195,
+      "beijing": 0.027446744231755995,
+      "chinas": 0.02669618368443541,
+      "taipei": 0.02276000365703213,
+      "trade": 0.020566141091555423,
+      "xi": 0.016271766887900052,
+      "li": 0.012695088418005046,
+      "foreign": 0.01160772088692053
+    }
+  },
+  "40": {
+    "name": "40_brexit_labour_eu_uk",
+    "count": 248,
+    "keywords": [
+      "brexit",
+      "labour",
+      "eu",
+      "uk",
+      "election",
+      "party",
+      "corbyn",
+      "theresa",
+      "britain",
+      "union"
+    ],
+    "keyword_scores": {
+      "brexit": 0.048146564210313346,
+      "labour": 0.03731214683926175,
+      "eu": 0.0358394634572257,
+      "uk": 0.02652336207259118,
+      "election": 0.025957980158968167,
+      "party": 0.022669428452384413,
+      "corbyn": 0.02227574418783796,
+      "theresa": 0.020149362597004446,
+      "britain": 0.01805735331888792,
+      "union": 0.018014432300087715
+    }
+  },
+  "41": {
+    "name": "41_windowtmr_type_var_tmrpush",
+    "count": 241,
+    "keywords": [
+      "windowtmr",
+      "type",
+      "var",
+      "tmrpush",
+      "tmr windowtmr",
+      "type reachgoal",
+      "tmrpush id",
+      "reachgoal goal",
+      "id 916045",
+      "916045 type"
+    ],
+    "keyword_scores": {
+      "windowtmr": 0.1456153456765427,
+      "type": 0.13235207564350854,
+      "var": 0.1043897336144243,
+      "tmrpush": 0.09083648062007464,
+      "tmr windowtmr": 0.09083648062007464,
+      "type reachgoal": 0.09083648062007464,
+      "tmrpush id": 0.09083648062007464,
+      "reachgoal goal": 0.09083648062007464,
+      "id 916045": 0.09083648062007464,
+      "916045 type": 0.09083648062007464
+    }
+  },
+  "42": {
+    "name": "42_saudi_iran_nuclear_deal",
+    "count": 237,
+    "keywords": [
+      "saudi",
+      "iran",
+      "nuclear",
+      "deal",
+      "arabia",
+      "saudi arabia",
+      "irans",
+      "yemen",
+      "trump",
+      "prince"
+    ],
+    "keyword_scores": {
+      "saudi": 0.05789976639669365,
+      "iran": 0.05509779978197883,
+      "nuclear": 0.029807010138653913,
+      "deal": 0.028405518600713362,
+      "arabia": 0.027530355824936868,
+      "saudi arabia": 0.02700566211464275,
+      "irans": 0.021538646332860043,
+      "yemen": 0.019712694552795514,
+      "trump": 0.01968726797622245,
+      "prince": 0.01904627562505739
+    }
+  },
+  "43": {
+    "name": "43_christmas_event_pm_food",
+    "count": 224,
+    "keywords": [
+      "christmas",
+      "event",
+      "pm",
+      "food",
+      "community",
+      "children",
+      "families",
+      "december",
+      "elementary",
+      "county"
+    ],
+    "keyword_scores": {
+      "christmas": 0.02988856660011683,
+      "event": 0.020707412200239916,
+      "pm": 0.018331818697324906,
+      "food": 0.01457703145013819,
+      "community": 0.01432570117031365,
+      "children": 0.013028946734276176,
+      "families": 0.012144555729922324,
+      "december": 0.011668021840932805,
+      "elementary": 0.011658229059483442,
+      "county": 0.011607083168226054
+    }
+  },
+  "44": {
+    "name": "44_flynn_russian_trump_russia",
+    "count": 220,
+    "keywords": [
+      "flynn",
+      "russian",
+      "trump",
+      "russia",
+      "putin",
+      "intelligence",
+      "white house",
+      "national security",
+      "sanctions",
+      "flynns"
+    ],
+    "keyword_scores": {
+      "flynn": 0.06161370278763961,
+      "russian": 0.039095837278403586,
+      "trump": 0.03262749565909969,
+      "russia": 0.031631999710769756,
+      "putin": 0.027987238675186675,
+      "intelligence": 0.024869348937976345,
+      "white house": 0.024837826070295128,
+      "national security": 0.024808353290187365,
+      "sanctions": 0.023821665254713277,
+      "flynns": 0.022016097923244354
+    }
+  },
+  "45": {
+    "name": "45_wimbledon_64_federer_round",
+    "count": 219,
+    "keywords": [
+      "wimbledon",
+      "64",
+      "federer",
+      "round",
+      "match",
+      "tennis",
+      "french open",
+      "grand slam",
+      "open",
+      "slam"
+    ],
+    "keyword_scores": {
+      "wimbledon": 0.05074531408768923,
+      "64": 0.03741350691647463,
+      "federer": 0.03599643257472611,
+      "round": 0.03562927138966304,
+      "match": 0.034989369702927306,
+      "tennis": 0.0337363700977547,
+      "french open": 0.031060403604630363,
+      "grand slam": 0.03008752212266759,
+      "open": 0.03007610916896116,
+      "slam": 0.029974903164351266
+    }
+  },
+  "46": {
+    "name": "46_scalise_baseball_capitol_shooting",
+    "count": 214,
+    "keywords": [
+      "scalise",
+      "baseball",
+      "capitol",
+      "shooting",
+      "capitol police",
+      "steve scalise",
+      "congressional",
+      "hodgkinson",
+      "rep",
+      "alexandria"
+    ],
+    "keyword_scores": {
+      "scalise": 0.060801730973310375,
+      "baseball": 0.04274369142411221,
+      "capitol": 0.03996045167108028,
+      "shooting": 0.034739559082855434,
+      "capitol police": 0.033256202496522454,
+      "steve scalise": 0.0320488448705736,
+      "congressional": 0.030441938926261992,
+      "hodgkinson": 0.03025707508651806,
+      "rep": 0.030206657444644677,
+      "alexandria": 0.027705522976036588
+    }
+  },
+  "47": {
+    "name": "47_explosion_bomb_ullah_subway",
+    "count": 204,
+    "keywords": [
+      "explosion",
+      "bomb",
+      "ullah",
+      "subway",
+      "port authority",
+      "austin",
+      "pipe",
+      "pipe bomb",
+      "new york",
+      "york"
+    ],
+    "keyword_scores": {
+      "explosion": 0.046996727152675395,
+      "bomb": 0.04296031256103537,
+      "ullah": 0.03490425908847427,
+      "subway": 0.029617291200381823,
+      "port authority": 0.028123580200810842,
+      "austin": 0.027453564393686403,
+      "pipe": 0.025549738464663692,
+      "pipe bomb": 0.025139854974140587,
+      "new york": 0.023479448692202292,
+      "york": 0.023420178133391627
+    }
+  },
+  "48": {
+    "name": "48_marijuana_cannabis_smoking_pot",
+    "count": 201,
+    "keywords": [
+      "marijuana",
+      "cannabis",
+      "smoking",
+      "pot",
+      "medical marijuana",
+      "recreational",
+      "medical",
+      "tobacco",
+      "weed",
+      "legal"
+    ],
+    "keyword_scores": {
+      "marijuana": 0.09607570100680866,
+      "cannabis": 0.04611050864621647,
+      "smoking": 0.024063134293517346,
+      "pot": 0.02242406222921729,
+      "medical marijuana": 0.02143657634631698,
+      "recreational": 0.0210553049057518,
+      "medical": 0.020253392461258648,
+      "tobacco": 0.017409566576929634,
+      "weed": 0.016645810447283926,
+      "legal": 0.015333378435976097
+    }
+  },
+  "49": {
+    "name": "49_immigration_immigrants_daca_border",
+    "count": 200,
+    "keywords": [
+      "immigration",
+      "immigrants",
+      "daca",
+      "border",
+      "ice",
+      "deportation",
+      "trump",
+      "federal",
+      "program",
+      "enforcement"
+    ],
+    "keyword_scores": {
+      "immigration": 0.05252170529015612,
+      "immigrants": 0.03217916828876934,
+      "daca": 0.025210318747041244,
+      "border": 0.021631979784010776,
+      "ice": 0.01926172037950143,
+      "deportation": 0.017189489137696044,
+      "trump": 0.01703080960307155,
+      "federal": 0.015108874922327223,
+      "program": 0.01498772586993371,
+      "enforcement": 0.014889214280146676
+    }
+  },
+  "50": {
+    "name": "50_water_pipeline_spillway_oroville",
+    "count": 197,
+    "keywords": [
+      "water",
+      "pipeline",
+      "spillway",
+      "oroville",
+      "dam",
+      "environmental",
+      "oil",
+      "river",
+      "emergency",
+      "dakota"
+    ],
+    "keyword_scores": {
+      "water": 0.04601357460605272,
+      "pipeline": 0.03044111205656985,
+      "spillway": 0.029306978651610596,
+      "oroville": 0.02790253154426746,
+      "dam": 0.027554354946051185,
+      "environmental": 0.01681605297645635,
+      "oil": 0.015610615177614666,
+      "river": 0.014101447088290902,
+      "emergency": 0.012520779385627075,
+      "dakota": 0.012257099059812803
+    }
+  },
+  "51": {
+    "name": "51_flight_plane_helicopter_airlines",
+    "count": 194,
+    "keywords": [
+      "flight",
+      "plane",
+      "helicopter",
+      "airlines",
+      "crashed",
+      "aircraft",
+      "passengers",
+      "pilot",
+      "airport",
+      "united"
+    ],
+    "keyword_scores": {
+      "flight": 0.05410934336694571,
+      "plane": 0.04764126320775923,
+      "helicopter": 0.03548661846338584,
+      "airlines": 0.034810551812215124,
+      "crashed": 0.028536105331530618,
+      "aircraft": 0.024289704946612894,
+      "passengers": 0.024010733228510696,
+      "pilot": 0.022892428367169627,
+      "airport": 0.021876827003865357,
+      "united": 0.02157338883673478
+    }
+  },
+  "52": {
+    "name": "52_weight_diet_healthy_study",
+    "count": 191,
+    "keywords": [
+      "weight",
+      "diet",
+      "healthy",
+      "study",
+      "protein",
+      "foods",
+      "dental",
+      "health",
+      "calories",
+      "diabetes"
+    ],
+    "keyword_scores": {
+      "weight": 0.029568051968566707,
+      "diet": 0.02351800678900575,
+      "healthy": 0.022927567817453202,
+      "study": 0.019590158102315,
+      "protein": 0.018952189150112222,
+      "foods": 0.018143410939149434,
+      "dental": 0.017236875783115738,
+      "health": 0.01689974506081112,
+      "calories": 0.016631529866835908,
+      "diabetes": 0.016094519218594415
+    }
+  },
+  "53": {
+    "name": "53_cancer_blood_cells_breast",
+    "count": 189,
+    "keywords": [
+      "cancer",
+      "blood",
+      "cells",
+      "breast",
+      "genetic",
+      "patients",
+      "disease",
+      "study",
+      "researchers",
+      "pain"
+    ],
+    "keyword_scores": {
+      "cancer": 0.05279934202786627,
+      "blood": 0.030263672580394477,
+      "cells": 0.025375400260526322,
+      "breast": 0.02009180565020831,
+      "genetic": 0.019756630127471586,
+      "patients": 0.018259392823162933,
+      "disease": 0.01756588262620696,
+      "study": 0.016423172936989264,
+      "researchers": 0.01621753927476909,
+      "pain": 0.01573109042896796
+    }
+  },
+  "54": {
+    "name": "54_vr_game_games_nintendo",
+    "count": 182,
+    "keywords": [
+      "vr",
+      "game",
+      "games",
+      "nintendo",
+      "xbox",
+      "virtual",
+      "console",
+      "virtual reality",
+      "mario",
+      "switch"
+    ],
+    "keyword_scores": {
+      "vr": 0.046140267662298576,
+      "game": 0.0302010633345258,
+      "games": 0.028106839073599045,
+      "nintendo": 0.024476286419471444,
+      "xbox": 0.018928591378275815,
+      "virtual": 0.017069543623011305,
+      "console": 0.014655272422932812,
+      "virtual reality": 0.013441289177176814,
+      "mario": 0.01333344129860425,
+      "switch": 0.012412846696756944
+    }
+  },
+  "55": {
+    "name": "55_flu_virus_vaccine_health",
+    "count": 177,
+    "keywords": [
+      "flu",
+      "virus",
+      "vaccine",
+      "health",
+      "disease",
+      "cases",
+      "infected",
+      "outbreak",
+      "fever",
+      "symptoms"
+    ],
+    "keyword_scores": {
+      "flu": 0.08304789385681272,
+      "virus": 0.0393272518104788,
+      "vaccine": 0.03389862803755407,
+      "health": 0.028964219192994994,
+      "disease": 0.026496493677705478,
+      "cases": 0.026396054870359127,
+      "infected": 0.023048733651451204,
+      "outbreak": 0.019926250496931162,
+      "fever": 0.019180329950560637,
+      "symptoms": 0.01908312416171754
+    }
+  },
+  "56": {
+    "name": "56_church_pope_francis_god",
+    "count": 176,
+    "keywords": [
+      "church",
+      "pope",
+      "francis",
+      "god",
+      "catholic",
+      "jesus",
+      "vatican",
+      "pope francis",
+      "abuse",
+      "faith"
+    ],
+    "keyword_scores": {
+      "church": 0.05033176509301626,
+      "pope": 0.03703746180676709,
+      "francis": 0.03458713053513495,
+      "god": 0.03191942841247603,
+      "catholic": 0.029606936212754398,
+      "jesus": 0.02561215237255872,
+      "vatican": 0.024371998838906173,
+      "pope francis": 0.02100594634659938,
+      "abuse": 0.019139787060813387,
+      "faith": 0.01635668035899646
+    }
+  },
+  "57": {
+    "name": "57_stock_billion_shares_company",
+    "count": 176,
+    "keywords": [
+      "stock",
+      "billion",
+      "shares",
+      "company",
+      "earnings",
+      "investors",
+      "investment",
+      "stocks",
+      "revenue",
+      "quarter"
+    ],
+    "keyword_scores": {
+      "stock": 0.02757319306644473,
+      "billion": 0.027481548244784413,
+      "shares": 0.026431535657335498,
+      "company": 0.02532706120612045,
+      "earnings": 0.02109455212305661,
+      "investors": 0.020370528502350924,
+      "investment": 0.019414903743281288,
+      "stocks": 0.01829593351036386,
+      "revenue": 0.016680433395632674,
+      "quarter": 0.01539416416636952
+    }
+  },
+  "58": {
+    "name": "58_road_isle wight_wight_isle",
+    "count": 175,
+    "keywords": [
+      "road",
+      "isle wight",
+      "wight",
+      "isle",
+      "works",
+      "roads",
+      "traffic",
+      "bridge",
+      "lane",
+      "council"
+    ],
+    "keyword_scores": {
+      "road": 0.05214417437389788,
+      "isle wight": 0.04410216211466135,
+      "wight": 0.04329840012936467,
+      "isle": 0.04200417654030986,
+      "works": 0.03870498445403624,
+      "roads": 0.038097186876886346,
+      "traffic": 0.030343632804376332,
+      "bridge": 0.0246123878693854,
+      "lane": 0.02325322052935526,
+      "council": 0.023004142746470724
+    }
+  },
+  "59": {
+    "name": "59_airlines_airport_airline_aircraft",
+    "count": 171,
+    "keywords": [
+      "airlines",
+      "airport",
+      "airline",
+      "aircraft",
+      "flights",
+      "fleet",
+      "air",
+      "airports",
+      "carrier",
+      "pilots"
+    ],
+    "keyword_scores": {
+      "airlines": 0.06040502014634955,
+      "airport": 0.05896167285171635,
+      "airline": 0.04898356610727176,
+      "aircraft": 0.0362932002064045,
+      "flights": 0.03567963823594496,
+      "fleet": 0.025492865635470666,
+      "air": 0.023416656702315262,
+      "airports": 0.022580522248690102,
+      "carrier": 0.021126775122930014,
+      "pilots": 0.019281828734088326
+    }
+  },
+  "60": {
+    "name": "60_opioid_drug_opioids_drugs",
+    "count": 167,
+    "keywords": [
+      "opioid",
+      "drug",
+      "opioids",
+      "drugs",
+      "addiction",
+      "overdose",
+      "fentanyl",
+      "epidemic",
+      "overdoses",
+      "heroin"
+    ],
+    "keyword_scores": {
+      "opioid": 0.0598320347436261,
+      "drug": 0.04965312295113801,
+      "opioids": 0.03289322702639066,
+      "drugs": 0.029105466877428543,
+      "addiction": 0.026179378329340034,
+      "overdose": 0.024044199399643643,
+      "fentanyl": 0.022727625132388577,
+      "epidemic": 0.02178073486373671,
+      "overdoses": 0.02120961814420942,
+      "heroin": 0.02060367501046265
+    }
+  },
+  "61": {
+    "name": "61_funeral_funeral home_grandchildren_church",
+    "count": 164,
+    "keywords": [
+      "funeral",
+      "funeral home",
+      "grandchildren",
+      "church",
+      "preceded",
+      "cemetery",
+      "husband",
+      "family",
+      "wife",
+      "home"
+    ],
+    "keyword_scores": {
+      "funeral": 0.06364351711283102,
+      "funeral home": 0.046630320814127664,
+      "grandchildren": 0.0369254971961574,
+      "church": 0.03546359289240984,
+      "preceded": 0.03078383314502277,
+      "cemetery": 0.030783004351625346,
+      "husband": 0.029610501743291266,
+      "family": 0.02939347112238365,
+      "wife": 0.024612041532821174,
+      "home": 0.023946535923334705
+    }
+  },
+  "62": {
+    "name": "62_whales_shark_boat_whale",
+    "count": 162,
+    "keywords": [
+      "whales",
+      "shark",
+      "boat",
+      "whale",
+      "beach",
+      "coast",
+      "water",
+      "coast guard",
+      "fishing",
+      "ocean"
+    ],
+    "keyword_scores": {
+      "whales": 0.048379454866781545,
+      "shark": 0.03491389438264464,
+      "boat": 0.0334497137472873,
+      "whale": 0.033186356739122416,
+      "beach": 0.02805114086253584,
+      "coast": 0.027708152621243588,
+      "water": 0.019730914727844245,
+      "coast guard": 0.0191759984588272,
+      "fishing": 0.01698069980983331,
+      "ocean": 0.01432129408454165
+    }
+  },
+  "63": {
+    "name": "63_art_gallery_artists_painting",
+    "count": 160,
+    "keywords": [
+      "art",
+      "gallery",
+      "artists",
+      "painting",
+      "artist",
+      "museum",
+      "arts",
+      "exhibition",
+      "work",
+      "works"
+    ],
+    "keyword_scores": {
+      "art": 0.05591371925366878,
+      "gallery": 0.02620248830130845,
+      "artists": 0.023825828121834106,
+      "painting": 0.023062488072161377,
+      "artist": 0.022146576144048614,
+      "museum": 0.0217824533470336,
+      "arts": 0.018734165940336344,
+      "exhibition": 0.016613248740760284,
+      "work": 0.0141865683019566,
+      "works": 0.013160146435645857
+    }
+  },
+  "64": {
+    "name": "64_security_malware_breach_scam",
+    "count": 154,
+    "keywords": [
+      "security",
+      "malware",
+      "breach",
+      "scam",
+      "information",
+      "data",
+      "cyber",
+      "credit",
+      "company",
+      "hackers"
+    ],
+    "keyword_scores": {
+      "security": 0.02594073080712544,
+      "malware": 0.023669702131812773,
+      "breach": 0.01912044132163468,
+      "scam": 0.015386507613001756,
+      "information": 0.014812588559332285,
+      "data": 0.014786030679845132,
+      "cyber": 0.014018854419576881,
+      "credit": 0.013129655645492086,
+      "company": 0.01263152432861182,
+      "hackers": 0.012536233164153483
+    }
+  },
+  "65": {
+    "name": "65_fireworks_july_flag_veterans",
+    "count": 148,
+    "keywords": [
+      "fireworks",
+      "july",
+      "flag",
+      "veterans",
+      "independence",
+      "fourth july",
+      "fourth",
+      "parade",
+      "nathans",
+      "nathans famous"
+    ],
+    "keyword_scores": {
+      "fireworks": 0.05230817545754226,
+      "july": 0.03812830908615273,
+      "flag": 0.03543434199273584,
+      "veterans": 0.027114332218166167,
+      "independence": 0.025035011749186757,
+      "fourth july": 0.022491284668634932,
+      "fourth": 0.02003927256706032,
+      "parade": 0.019689656780587646,
+      "nathans": 0.01877517356393797,
+      "nathans famous": 0.01683681285986514
+    }
+  },
+  "66": {
+    "name": "66_polish_poland_holocaust_jews",
+    "count": 146,
+    "keywords": [
+      "polish",
+      "poland",
+      "holocaust",
+      "jews",
+      "nazi",
+      "european",
+      "german",
+      "law",
+      "jewish",
+      "germany"
+    ],
+    "keyword_scores": {
+      "polish": 0.046372870990293115,
+      "poland": 0.04528155748523473,
+      "holocaust": 0.0422942797913512,
+      "jews": 0.029906075063335626,
+      "nazi": 0.024029308857151144,
+      "european": 0.02173487830842282,
+      "german": 0.016874507163796158,
+      "law": 0.016511406752007064,
+      "jewish": 0.01560933311885479,
+      "germany": 0.015573925232196157
+    }
+  },
+  "67": {
+    "name": "67_password_access_paid subscriber_subscriber registered",
+    "count": 146,
+    "keywords": [
+      "password",
+      "access",
+      "paid subscriber",
+      "subscriber registered",
+      "click forgot",
+      "password paid",
+      "registered online",
+      "premium web",
+      "access instructions",
+      "instructions premium"
+    ],
+    "keyword_scores": {
+      "password": 0.28365590883109226,
+      "access": 0.17357400024299136,
+      "paid subscriber": 0.17116263333072534,
+      "subscriber registered": 0.17116263333072534,
+      "click forgot": 0.17116263333072534,
+      "password paid": 0.17116263333072534,
+      "registered online": 0.17116263333072534,
+      "premium web": 0.17116263333072534,
+      "access instructions": 0.17116263333072534,
+      "instructions premium": 0.17116263333072534
+    }
+  },
+  "68": {
+    "name": "68_memo_fbi_fisa_steele",
+    "count": 145,
+    "keywords": [
+      "memo",
+      "fbi",
+      "fisa",
+      "steele",
+      "intelligence",
+      "nunes",
+      "trump",
+      "dossier",
+      "surveillance",
+      "justice department"
+    ],
+    "keyword_scores": {
+      "memo": 0.09590588694757271,
+      "fbi": 0.06774928844360464,
+      "fisa": 0.038401739873490943,
+      "steele": 0.036202638667203024,
+      "intelligence": 0.036084984258233026,
+      "nunes": 0.03244602245469148,
+      "trump": 0.031925335035322674,
+      "dossier": 0.031090500347909195,
+      "surveillance": 0.029959733468238034,
+      "justice department": 0.025744838965542357
+    }
+  },
+  "69": {
+    "name": "69_amazon_stores_store_walmart",
+    "count": 142,
+    "keywords": [
+      "amazon",
+      "stores",
+      "store",
+      "walmart",
+      "retail",
+      "retailers",
+      "delivery",
+      "online",
+      "shoppers",
+      "customers"
+    ],
+    "keyword_scores": {
+      "amazon": 0.04256183284266108,
+      "stores": 0.041659060294108805,
+      "store": 0.03463579622681919,
+      "walmart": 0.030138183193147445,
+      "retail": 0.027601673473266097,
+      "retailers": 0.02479659692690269,
+      "delivery": 0.023138797052075295,
+      "online": 0.021015922288111853,
+      "shoppers": 0.019832460384305837,
+      "customers": 0.01894586513405367
+    }
+  },
+  "70": {
+    "name": "70_plastic_farmers_food_wheat",
+    "count": 141,
+    "keywords": [
+      "plastic",
+      "farmers",
+      "food",
+      "wheat",
+      "crop",
+      "waste",
+      "organic",
+      "ocean",
+      "cattle",
+      "water"
+    ],
+    "keyword_scores": {
+      "plastic": 0.04070775397733929,
+      "farmers": 0.026914357337234403,
+      "food": 0.02256012133537327,
+      "wheat": 0.02067933226729141,
+      "crop": 0.01814201235818154,
+      "waste": 0.014574520668465018,
+      "organic": 0.013480485284411713,
+      "ocean": 0.013246033198832649,
+      "cattle": 0.013031589931324626,
+      "water": 0.012685361641982022
+    }
+  },
+  "71": {
+    "name": "71_taliban_pakistan_afghanistan_afghan",
+    "count": 138,
+    "keywords": [
+      "taliban",
+      "pakistan",
+      "afghanistan",
+      "afghan",
+      "military",
+      "forces",
+      "soldiers",
+      "killed",
+      "attack",
+      "militants"
+    ],
+    "keyword_scores": {
+      "taliban": 0.04862806799376828,
+      "pakistan": 0.048622077567934296,
+      "afghanistan": 0.045206504404607606,
+      "afghan": 0.033616789099572046,
+      "military": 0.024106486919836464,
+      "forces": 0.02218621390717338,
+      "soldiers": 0.02188598051833479,
+      "killed": 0.020194955020444903,
+      "attack": 0.019910896367967047,
+      "militants": 0.018474199440881377
+    }
+  },
+  "72": {
+    "name": "72_cricket_india_wickets_overs",
+    "count": 137,
+    "keywords": [
+      "cricket",
+      "india",
+      "wickets",
+      "overs",
+      "runs",
+      "test",
+      "bangladesh",
+      "australia",
+      "sri",
+      "innings"
+    ],
+    "keyword_scores": {
+      "cricket": 0.07659642566459268,
+      "india": 0.036421513603609706,
+      "wickets": 0.03458450666394728,
+      "overs": 0.029477223863079088,
+      "runs": 0.0266269732326644,
+      "test": 0.026034836663859924,
+      "bangladesh": 0.024851136619836747,
+      "australia": 0.0243270726785886,
+      "sri": 0.022884331036310768,
+      "innings": 0.022078310378252693
+    }
+  },
+  "73": {
+    "name": "73_toronto_minassian_van_attack",
+    "count": 136,
+    "keywords": [
+      "toronto",
+      "minassian",
+      "van",
+      "attack",
+      "police",
+      "suspect",
+      "pedestrians",
+      "officer",
+      "murder",
+      "sidewalk"
+    ],
+    "keyword_scores": {
+      "toronto": 0.06497049413064182,
+      "minassian": 0.05457946591626221,
+      "van": 0.042928777858433034,
+      "attack": 0.030037424385958595,
+      "police": 0.02724426553074747,
+      "suspect": 0.025036979424614227,
+      "pedestrians": 0.02280222704793865,
+      "officer": 0.019158548128982576,
+      "murder": 0.018144398217757256,
+      "sidewalk": 0.017270792961405806
+    }
+  },
+  "74": {
+    "name": "74_barrel_shipped_scope_rifle",
+    "count": 131,
+    "keywords": [
+      "barrel",
+      "shipped",
+      "scope",
+      "rifle",
+      "bolt",
+      "gun",
+      "attached",
+      "trigger",
+      "action",
+      "bullets"
+    ],
+    "keyword_scores": {
+      "barrel": 0.05591106209677442,
+      "shipped": 0.051689582479181415,
+      "scope": 0.046691551854566686,
+      "rifle": 0.03701468651042496,
+      "bolt": 0.03696214518557913,
+      "gun": 0.02584936909557329,
+      "attached": 0.025770790851002052,
+      "trigger": 0.02195711617234989,
+      "action": 0.021773491316616572,
+      "bullets": 0.021469587928707075
+    }
+  },
+  "75": {
+    "name": "75_islands_donate order_order gift_st",
+    "count": 128,
+    "keywords": [
+      "islands",
+      "donate order",
+      "order gift",
+      "st",
+      "donate",
+      "gift",
+      "republic",
+      "apc",
+      "leaders",
+      "congress apc"
+    ],
+    "keyword_scores": {
+      "islands": 0.13586270788725066,
+      "donate order": 0.06248378138246107,
+      "order gift": 0.06248378138246107,
+      "st": 0.06037919982572615,
+      "donate": 0.05214116679965132,
+      "gift": 0.04510004661495707,
+      "republic": 0.041499465551525755,
+      "apc": 0.035081297388263044,
+      "leaders": 0.03467521638003447,
+      "congress apc": 0.034547679321601334
+    }
+  },
+  "76": {
+    "name": "76_care_nhs_health_patients",
+    "count": 127,
+    "keywords": [
+      "care",
+      "nhs",
+      "health",
+      "patients",
+      "hospital",
+      "services",
+      "staff",
+      "medical",
+      "hospitals",
+      "trust"
+    ],
+    "keyword_scores": {
+      "care": 0.04887309430052116,
+      "nhs": 0.04170267078742572,
+      "health": 0.03790840407026031,
+      "patients": 0.030854089382182544,
+      "hospital": 0.022238757002305976,
+      "services": 0.019572176424986158,
+      "staff": 0.018700718231813563,
+      "medical": 0.018388098604105646,
+      "hospitals": 0.01795505923806538,
+      "trust": 0.014547667196867764
+    }
+  },
+  "77": {
+    "name": "77_nuclear_nuclear weapons_planets_nobel",
+    "count": 127,
+    "keywords": [
+      "nuclear",
+      "nuclear weapons",
+      "planets",
+      "nobel",
+      "weapons",
+      "earth",
+      "scientists",
+      "universe",
+      "prize",
+      "stars"
+    ],
+    "keyword_scores": {
+      "nuclear": 0.03723192158247102,
+      "nuclear weapons": 0.03214147334054477,
+      "planets": 0.031997926973567244,
+      "nobel": 0.0296754508355286,
+      "weapons": 0.028002087701370956,
+      "earth": 0.02745146054291806,
+      "scientists": 0.026079603453889308,
+      "universe": 0.02572380362625015,
+      "prize": 0.02490051125489607,
+      "stars": 0.022881857181547154
+    }
+  },
+  "78": {
+    "name": "78_ndp_party_liberals_liberal",
+    "count": 126,
+    "keywords": [
+      "ndp",
+      "party",
+      "liberals",
+      "liberal",
+      "ontario",
+      "government",
+      "premier",
+      "minister",
+      "conservative",
+      "provincial"
+    ],
+    "keyword_scores": {
+      "ndp": 0.026569144225325626,
+      "party": 0.023649925707649313,
+      "liberals": 0.021926396698433933,
+      "liberal": 0.021778757289329428,
+      "ontario": 0.02125118790706014,
+      "government": 0.019011258294437984,
+      "premier": 0.018241881890819937,
+      "minister": 0.017493980513263792,
+      "conservative": 0.016971859434020808,
+      "provincial": 0.016352462776935764
+    }
+  },
+  "79": {
+    "name": "79_race_racing_horse_rider",
+    "count": 123,
+    "keywords": [
+      "race",
+      "racing",
+      "horse",
+      "rider",
+      "races",
+      "team",
+      "riders",
+      "horses",
+      "championship",
+      "champion"
+    ],
+    "keyword_scores": {
+      "race": 0.04963421529328372,
+      "racing": 0.02998667610443594,
+      "horse": 0.02486287575709079,
+      "rider": 0.01665183690816011,
+      "races": 0.01663264085063614,
+      "team": 0.014146134031060192,
+      "riders": 0.014012296093400066,
+      "horses": 0.013773662898502622,
+      "championship": 0.01375189936293151,
+      "champion": 0.013513149969008303
+    }
+  },
+  "80": {
+    "name": "80_duterte_philippine_advertisement_said",
+    "count": 123,
+    "keywords": [
+      "duterte",
+      "philippine",
+      "advertisement",
+      "said",
+      "drug",
+      "philippines",
+      "lima",
+      "president",
+      "justice",
+      "secretary"
+    ],
+    "keyword_scores": {
+      "duterte": 0.059684152985585694,
+      "philippine": 0.025540323123956675,
+      "advertisement": 0.022989600674005843,
+      "said": 0.018916269464686525,
+      "drug": 0.01789786231718368,
+      "philippines": 0.017663183807355664,
+      "lima": 0.01735432212268851,
+      "president": 0.016100751588243613,
+      "justice": 0.014448004139644999,
+      "secretary": 0.013915542336748712
+    }
+  },
+  "81": {
+    "name": "81_attractions_ski_order gift_donate order",
+    "count": 116,
+    "keywords": [
+      "attractions",
+      "ski",
+      "order gift",
+      "donate order",
+      "destinations",
+      "order",
+      "donate",
+      "best",
+      "notifications",
+      "museums"
+    ],
+    "keyword_scores": {
+      "attractions": 0.08862942096006242,
+      "ski": 0.08246024273734075,
+      "order gift": 0.06144624957008485,
+      "donate order": 0.06144624957008485,
+      "destinations": 0.05493220596619316,
+      "order": 0.05244611855751503,
+      "donate": 0.052300879663551125,
+      "best": 0.04978053563671544,
+      "notifications": 0.04654646356472698,
+      "museums": 0.045514517537263516
+    }
+  },
+  "82": {
+    "name": "82_mueller_trump_comey_fbi",
+    "count": 116,
+    "keywords": [
+      "mueller",
+      "trump",
+      "comey",
+      "fbi",
+      "investigation",
+      "special counsel",
+      "counsel",
+      "sessions",
+      "mccabe",
+      "probe"
+    ],
+    "keyword_scores": {
+      "mueller": 0.05634725746885381,
+      "trump": 0.04613429281380569,
+      "comey": 0.04509583123827733,
+      "fbi": 0.03614565881332494,
+      "investigation": 0.03554580495390714,
+      "special counsel": 0.033320930558357977,
+      "counsel": 0.03257598593396341,
+      "sessions": 0.027562990780184492,
+      "mccabe": 0.026561279008033168,
+      "probe": 0.025295756253999314
+    }
+  },
+  "83": {
+    "name": "83_space_rocket_spacex_nasa",
+    "count": 115,
+    "keywords": [
+      "space",
+      "rocket",
+      "spacex",
+      "nasa",
+      "launch",
+      "falcon",
+      "orbit",
+      "moon",
+      "mars",
+      "earth"
+    ],
+    "keyword_scores": {
+      "space": 0.09062770410636489,
+      "rocket": 0.0548533547168258,
+      "spacex": 0.04310494457452361,
+      "nasa": 0.041434743999322995,
+      "launch": 0.03943395669215874,
+      "falcon": 0.036597132896441745,
+      "orbit": 0.033404709394692395,
+      "moon": 0.03119672654740488,
+      "mars": 0.028827671956422888,
+      "earth": 0.027891007723829984
+    }
+  },
+  "84": {
+    "name": "84_baby_kardashian_instagram_daughter",
+    "count": 113,
+    "keywords": [
+      "baby",
+      "kardashian",
+      "instagram",
+      "daughter",
+      "shared",
+      "shes",
+      "family",
+      "love",
+      "child",
+      "mom"
+    ],
+    "keyword_scores": {
+      "baby": 0.03164619230128901,
+      "kardashian": 0.02314840958480963,
+      "instagram": 0.018508487850113355,
+      "daughter": 0.015577716960090282,
+      "shared": 0.015530611456515358,
+      "shes": 0.014508199203422827,
+      "family": 0.014465560372743458,
+      "love": 0.013833725529922087,
+      "child": 0.013653146071455551,
+      "mom": 0.01309479213814509
+    }
+  },
+  "85": {
+    "name": "85_trade_tariffs_steel_nafta",
+    "count": 111,
+    "keywords": [
+      "trade",
+      "tariffs",
+      "steel",
+      "nafta",
+      "eu",
+      "canada",
+      "aluminum",
+      "european",
+      "mexico",
+      "trump"
+    ],
+    "keyword_scores": {
+      "trade": 0.07821578767325187,
+      "tariffs": 0.055807850675731234,
+      "steel": 0.03894372671021531,
+      "nafta": 0.03346934898069394,
+      "eu": 0.02940384665629962,
+      "canada": 0.024247440351718868,
+      "aluminum": 0.021166310133961204,
+      "european": 0.020489304188226823,
+      "mexico": 0.01884845432385366,
+      "trump": 0.01805314305653124
+    }
+  },
+  "86": {
+    "name": "86_climate_energy_pipeline_emissions",
+    "count": 111,
+    "keywords": [
+      "climate",
+      "energy",
+      "pipeline",
+      "emissions",
+      "oil",
+      "alberta",
+      "climate change",
+      "bc",
+      "trans",
+      "paris"
+    ],
+    "keyword_scores": {
+      "climate": 0.03935082252307797,
+      "energy": 0.027078071091342863,
+      "pipeline": 0.026044479282011885,
+      "emissions": 0.025047144734705696,
+      "oil": 0.020334208128950343,
+      "alberta": 0.020294158928275234,
+      "climate change": 0.019460154784976154,
+      "bc": 0.017179749308712057,
+      "trans": 0.016961182194011704,
+      "paris": 0.01613191264406405
+    }
+  },
+  "87": {
+    "name": "87_bitcoin_cryptocurrency_cryptocurrencies_futures",
+    "count": 110,
+    "keywords": [
+      "bitcoin",
+      "cryptocurrency",
+      "cryptocurrencies",
+      "futures",
+      "trading",
+      "blockchain",
+      "exchange",
+      "currency",
+      "currencies",
+      "price"
+    ],
+    "keyword_scores": {
+      "bitcoin": 0.14971405331995022,
+      "cryptocurrency": 0.04204289621956561,
+      "cryptocurrencies": 0.033207753506591095,
+      "futures": 0.0318248573741089,
+      "trading": 0.031074275953007036,
+      "blockchain": 0.030184841494189877,
+      "exchange": 0.02910511552640481,
+      "currency": 0.028741141650994066,
+      "currencies": 0.02479781241632198,
+      "price": 0.024341976987922242
+    }
+  },
+  "88": {
+    "name": "88_football_players_cup_ghana",
+    "count": 110,
+    "keywords": [
+      "football",
+      "players",
+      "cup",
+      "ghana",
+      "coach",
+      "stars",
+      "africa",
+      "team",
+      "fifa",
+      "world cup"
+    ],
+    "keyword_scores": {
+      "football": 0.030374469323827525,
+      "players": 0.029391113260198245,
+      "cup": 0.0268298261941996,
+      "ghana": 0.02413801795647403,
+      "coach": 0.022346904476751077,
+      "stars": 0.021617315972242958,
+      "africa": 0.019650402101503,
+      "team": 0.019292282718191417,
+      "fifa": 0.017002899499518487,
+      "world cup": 0.01695147760288819
+    }
+  },
+  "89": {
+    "name": "89_eclipse_solar_solar eclipse_glasses",
+    "count": 110,
+    "keywords": [
+      "eclipse",
+      "solar",
+      "solar eclipse",
+      "glasses",
+      "moon",
+      "sun",
+      "nasa",
+      "total",
+      "viewing",
+      "earth"
+    ],
+    "keyword_scores": {
+      "eclipse": 0.17628492726731404,
+      "solar": 0.0781686399539856,
+      "solar eclipse": 0.07211236558008745,
+      "glasses": 0.06330756073333701,
+      "moon": 0.05729689572046457,
+      "sun": 0.0467614962379927,
+      "nasa": 0.026761061360637738,
+      "total": 0.025868120487396035,
+      "viewing": 0.022514559333073808,
+      "earth": 0.020200847989220828
+    }
+  },
+  "90": {
+    "name": "90_fish_fishing_bait_water",
+    "count": 109,
+    "keywords": [
+      "fish",
+      "fishing",
+      "bait",
+      "water",
+      "bass",
+      "lake",
+      "bite",
+      "boat",
+      "fly",
+      "shrimp"
+    ],
+    "keyword_scores": {
+      "fish": 0.09270406404954534,
+      "fishing": 0.08153992198333267,
+      "bait": 0.043710712863891936,
+      "water": 0.040643718619336446,
+      "bass": 0.024602247364735937,
+      "lake": 0.02415190135246916,
+      "bite": 0.02096251785369915,
+      "boat": 0.019323124551417634,
+      "fly": 0.01858515542832715,
+      "shrimp": 0.017828143765000803
+    }
+  },
+  "91": {
+    "name": "91_paris_italian_police_french",
+    "count": 109,
+    "keywords": [
+      "paris",
+      "italian",
+      "police",
+      "french",
+      "attack",
+      "suspect",
+      "migrants",
+      "arrested",
+      "man",
+      "italy"
+    ],
+    "keyword_scores": {
+      "paris": 0.041914345139776744,
+      "italian": 0.03767313720154925,
+      "police": 0.03192165303468319,
+      "french": 0.03074445613334236,
+      "attack": 0.0241603733142861,
+      "suspect": 0.022223028232331778,
+      "migrants": 0.02021580139840907,
+      "arrested": 0.018220250174275032,
+      "man": 0.017566611910346037,
+      "italy": 0.01589020528815738
+    }
+  },
+  "92": {
+    "name": "92_prince_royal_harry_queen",
+    "count": 108,
+    "keywords": [
+      "prince",
+      "royal",
+      "harry",
+      "queen",
+      "princess",
+      "william",
+      "meghan",
+      "wedding",
+      "palace",
+      "kate"
+    ],
+    "keyword_scores": {
+      "prince": 0.07774236920127842,
+      "royal": 0.057642632940435735,
+      "harry": 0.04621756931316176,
+      "queen": 0.037884592257213516,
+      "princess": 0.037854688017553616,
+      "william": 0.032272908784346875,
+      "meghan": 0.030834186298027633,
+      "wedding": 0.028290899450042987,
+      "palace": 0.023434090278273968,
+      "kate": 0.01881798564268135
+    }
+  },
+  "93": {
+    "name": "93_babchenko_ukrainian_russian_ukraine",
+    "count": 104,
+    "keywords": [
+      "babchenko",
+      "ukrainian",
+      "russian",
+      "ukraine",
+      "journalist",
+      "russia",
+      "moscow",
+      "kremlin",
+      "security",
+      "death"
+    ],
+    "keyword_scores": {
+      "babchenko": 0.08468544653905503,
+      "ukrainian": 0.07054759421167486,
+      "russian": 0.05994184949785953,
+      "ukraine": 0.05692651149976204,
+      "journalist": 0.035877904560769995,
+      "russia": 0.032389448069275434,
+      "moscow": 0.02407145342204467,
+      "kremlin": 0.02280064525341918,
+      "security": 0.018004368221184334,
+      "death": 0.0168206044712453
+    }
+  },
+  "94": {
+    "name": "94_swift_mueller_meek_swifts",
+    "count": 102,
+    "keywords": [
+      "swift",
+      "mueller",
+      "meek",
+      "swifts",
+      "taylor swift",
+      "taylor",
+      "muellers",
+      "denver",
+      "judge",
+      "trial"
+    ],
+    "keyword_scores": {
+      "swift": 0.10926729808938827,
+      "mueller": 0.0717372832484097,
+      "meek": 0.0640260624570312,
+      "swifts": 0.047558610739503265,
+      "taylor swift": 0.045259435071640645,
+      "taylor": 0.042372236223997876,
+      "muellers": 0.04120986185697644,
+      "denver": 0.03260010175859318,
+      "judge": 0.03175769647965046,
+      "trial": 0.026970378503182322
+    }
+  },
+  "95": {
+    "name": "95_stephens_godwin_cleveland_facebook",
+    "count": 102,
+    "keywords": [
+      "stephens",
+      "godwin",
+      "cleveland",
+      "facebook",
+      "video",
+      "police",
+      "steve",
+      "killing",
+      "suspect",
+      "shooting"
+    ],
+    "keyword_scores": {
+      "stephens": 0.12746531010422318,
+      "godwin": 0.05687854556031439,
+      "cleveland": 0.05394184644752984,
+      "facebook": 0.042797389194354996,
+      "video": 0.033789307399859435,
+      "police": 0.029820642673560622,
+      "steve": 0.029147766802576077,
+      "killing": 0.024537879031644696,
+      "suspect": 0.022190722785906242,
+      "shooting": 0.02102901626483258
+    }
+  },
+  "96": {
+    "name": "96_valentines_valentines day_gift_day",
+    "count": 101,
+    "keywords": [
+      "valentines",
+      "valentines day",
+      "gift",
+      "day",
+      "love",
+      "gifts",
+      "cards",
+      "card",
+      "christmas",
+      "chocolate"
+    ],
+    "keyword_scores": {
+      "valentines": 0.07647303281303962,
+      "valentines day": 0.06120358204679185,
+      "gift": 0.038900986581573094,
+      "day": 0.03541581454898656,
+      "love": 0.027880345911829738,
+      "gifts": 0.019918998195185597,
+      "cards": 0.018006404678166197,
+      "card": 0.01793809308527137,
+      "christmas": 0.01759619491624513,
+      "chocolate": 0.017567200283133286
+    }
+  },
+  "97": {
+    "name": "97_puerto_puerto rico_rico_hurricane",
+    "count": 100,
+    "keywords": [
+      "puerto",
+      "puerto rico",
+      "rico",
+      "hurricane",
+      "maria",
+      "hurricane maria",
+      "island",
+      "san juan",
+      "juan",
+      "water"
+    ],
+    "keyword_scores": {
+      "puerto": 0.13047279603658338,
+      "puerto rico": 0.0961968478811916,
+      "rico": 0.09607815478812289,
+      "hurricane": 0.0528299829342696,
+      "maria": 0.039555823560971815,
+      "hurricane maria": 0.036926743916764655,
+      "island": 0.027817983521883097,
+      "san juan": 0.022960787629809097,
+      "juan": 0.0199356712841131,
+      "water": 0.019784208456817498
+    }
+  }
+}

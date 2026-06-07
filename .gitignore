@@ -1,0 +1,26 @@
+# Data & Models
+# Tracked via Git LFS for Hugging Face Spaces
+data/cache/
+data/raw/
+models/cache/
+
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Artifacts (Do not upload zip files)
+*.zip

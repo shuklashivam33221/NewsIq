@@ -1,0 +1,31 @@
+{
+  "f1_macro": 0.9474022912142518,
+  "accuracy": 0.9473684210526315,
+  "classification_report": "              precision    recall  f1-score   support\n\n       World     0.9617    0.9516    0.9566      1900\n      Sports     0.9900    0.9895    0.9897      1900\n    Business     0.9252    0.9116    0.9183      1900\n    Sci/Tech     0.9133    0.9368    0.9249      1900\n\n    accuracy                         0.9474      7600\n   macro avg     0.9475    0.9474    0.9474      7600\nweighted avg     0.9475    0.9474    0.9474      7600\n",
+  "confusion_matrix": [
+    [
+      1808,
+      9,
+      45,
+      38
+    ],
+    [
+      9,
+      1880,
+      7,
+      4
+    ],
+    [
+      36,
+      5,
+      1732,
+      127
+    ],
+    [
+      27,
+      5,
+      88,
+      1780
+    ]
+  ]
+}
