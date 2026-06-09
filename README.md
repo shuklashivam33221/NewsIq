@@ -32,7 +32,6 @@ A production-grade NLP system that classifies news articles, discovers latent to
 
 - **AG News**: ~120,000 labeled articles used for training the DistilBERT classification model.
 - **CC-News**: ~50,000 unlabeled articles used for unsupervised topic discovery and embedding visualizations.
-- **COCO Dataset**: ~25 GB / 1.5M images for NewsIQ.
 
 ---
 
